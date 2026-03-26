@@ -2,13 +2,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-0.2+-green.svg)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Orchestration-purple.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-teal.svg)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-End-to-end customer service automation using LLM agents with intent classification, knowledge base RAG, multi-turn conversation management, sentiment-aware responses, intelligent escalation routing, and ticket analytics — built with **LangChain** and **LangGraph**.
+End-to-end customer service automation using LLM agents with intent classification, knowledge base RAG, multi-turn conversation management, sentiment-aware responses, intelligent escalation routing, and ticket analytics — built with **LangChain**.
 
 ---
 
@@ -187,7 +186,7 @@ make dashboard
 
 ## Tech Stack
 
-- **LLM Framework**: LangChain + LangGraph
+- **LLM Framework**: LangChain
 - **LLM Provider**: OpenAI GPT-4
 - **Vector Store**: ChromaDB
 - **Embeddings**: sentence-transformers / OpenAI
